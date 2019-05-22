@@ -4,6 +4,8 @@ Sample Code for Swift 5 AdditiveArithmetic protocol.
 
 It is required Xcode 10.2 and Swift 5.
 
+* Blog : [Swift 5 の AdditiveArithmetic protocol とは何か - Qiita](https://qiita.com/usamik26/items/88bba2bfcaed086fd15e)
+
 ## License
 
 Copyright 2019 USAMI Kosuke
